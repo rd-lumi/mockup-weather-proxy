@@ -7,9 +7,9 @@
   "temp": 13.63,
   "weather-condition": {
     "id": 804,
-    "main": "Clouds",
-    "description": "overcast clouds",
-    "icon": "04d"
+    "main": "sun",
+    "description": "sun",
+    "icon": "01d"
   },
   "air-pollution": {
     "aqi": 99,
