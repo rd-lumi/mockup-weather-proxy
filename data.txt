@@ -7,9 +7,9 @@
   "temp": 13.63,
   "weather-condition": {
     "id": 804,
-    "main": "sun",
-    "description": "sun",
-    "icon": "01d"
+    "main": "Rain",
+    "description": "light rain",
+    "icon": "10d"
   },
   "air-pollution": {
     "aqi": 1499,
