@@ -7,7 +7,7 @@
   "temp": 13.63,
   "weather-condition": {
     "id": 804,
-    "main": "Rain",
+    "main": "rain",
     "description": "light rain",
     "icon": "10d"
   },
