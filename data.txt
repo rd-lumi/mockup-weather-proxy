@@ -7,8 +7,8 @@
   "temp": 13.63,
   "weather-condition": {
     "id": 804,
-    "main": "rain",
-    "description": "light rain",
+    "main": "Clear",
+    "description": "clear sky",
     "icon": "10d"
   },
   "air-pollution": {
