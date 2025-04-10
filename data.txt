@@ -7,8 +7,8 @@
   "temp": 13.63,
   "weather-condition": {
     "id": 804,
-    "main": "Snow",
-    "description": "shower snow",
+    "main": "Clouds",
+    "description": "broken clouds",
     "icon": "10d"
   },
   "air-pollution": {
