@@ -4,7 +4,7 @@
   "timezone": "Asia/Shanghai",
   "timezone_offset": 28800,
   "humidity": 72,
-  "temp": -10.3,
+  "temp": -90.0,
   "weather-condition": {
     "id": 804,
     "main": "Thunderstorm",
