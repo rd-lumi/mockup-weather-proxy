@@ -3,8 +3,8 @@
   "lon": 104.9357,
   "timezone": "Asia/Shanghai",
   "timezone_offset": 28800,
-  "humidity": 72,
-  "temp": 0,
+  "humidity": 60,
+  "temp": 10,
   "weather-condition": {
     "id": 804,
     "main": "Thunderstorm",
@@ -19,7 +19,7 @@
     "o3": 46.49,
     "so2": 51.98,
     "pm2_5": 12,
-    "pm10": 355,
+    "pm10": 425,
     "nh3": 15.83
   }
 }
