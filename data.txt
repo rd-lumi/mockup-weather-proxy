@@ -7,8 +7,8 @@
   "temp": -10,
   "weather-condition": {
     "id": 804,
-    "main": "Thunderstorm",
-    "description": "Thunderstorm",
+    "main": "Rain",
+    "description": "Rain",
     "icon": "10d"
   },
   "air-pollution": {
