@@ -3,8 +3,8 @@
   "lon": 104.9357,
   "timezone": "Asia/Shanghai",
   "timezone_offset": 28800,
-  "humidity": 60,
-  "temp": 10,
+  "humidity": 61,
+  "temp": -10,
   "weather-condition": {
     "id": 804,
     "main": "Thunderstorm",
